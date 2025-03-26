@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480380822936",
+    "project_id": "kcherryecom",
+    "storage_bucket": "kcherryecom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480380822936:android:de287397cdaa332bd9f7ed",
+        "android_client_info": {
+          "package_name": "com.example.kdigital_ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcwyKlStkdeYF-NTPTIPEY3UbR453_DDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
